@@ -1,0 +1,7 @@
+D:\GitHub Archive\C#\BookStore\bin\Debug\BookStore.exe.config
+D:\GitHub Archive\C#\BookStore\bin\Debug\BookStore.exe
+D:\GitHub Archive\C#\BookStore\bin\Debug\BookStore.pdb
+D:\GitHub Archive\C#\BookStore\obj\Debug\BookStore.csproj.AssemblyReference.cache
+D:\GitHub Archive\C#\BookStore\obj\Debug\BookStore.csproj.CoreCompileInputs.cache
+D:\GitHub Archive\C#\BookStore\obj\Debug\BookStore.exe
+D:\GitHub Archive\C#\BookStore\obj\Debug\BookStore.pdb
